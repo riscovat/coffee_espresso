@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Генерация фильмов</string>
+   <string>Эспрессо</string>
   </property>
   <widget class="QWidget" name="centralwidget">
    <widget class="QTableWidget" name="tableWidget">
@@ -19,7 +19,7 @@
      <rect>
       <x>30</x>
       <y>61</y>
-      <width>1011</width>
+      <width>891</width>
       <height>301</height>
      </rect>
     </property>
@@ -41,11 +41,6 @@
     <column>
      <property name="text">
       <string>Молотый\в зернах</string>
-     </property>
-    </column>
-    <column>
-     <property name="text">
-      <string>Продолжительность</string>
      </property>
     </column>
     <column>
